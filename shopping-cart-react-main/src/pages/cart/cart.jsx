@@ -14,7 +14,7 @@ export const Cart = () => {
   return (
     <div className="cart">
       <div>
-        <h1>Your Cart Items</h1>
+        <h1>您的購物車</h1>
       </div>
       <div className="cart">
         {PRODUCTS.map((product) => {
@@ -26,8 +26,8 @@ export const Cart = () => {
 
       {totalAmount > 0 ? (
         <div className="checkout">
-          <p> Subtotal: ${totalAmount} </p>
-          <button onClick={() => navigate("/")}> Continue Shopping </button>
+          <p> 總金額: ${totalAmount} </p>
+          <button onClick={() => navigate("/")}> 繼續購物 </button>
           <button
             onClick={() => {
               checkout();
@@ -35,11 +35,11 @@ export const Cart = () => {
             }}
           >
             {" "}
-            Checkout{" "}
+            結帳{" "}
           </button>
         </div>
       ) : (
-        <h1> Your Shopping Cart is Empty</h1>
+        <h1> 您的購物車還沒有任東西</h1>
       )}
     </div>
   );
