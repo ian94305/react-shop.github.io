@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-shop.github.io/static/css/main.974da663.css",
-    "main.js": "/react-shop.github.io/static/js/main.ca5f08ec.js",
+    "main.css": "/react-shop.github.io/static/css/main.ebf9b3ac.css",
+    "main.js": "/react-shop.github.io/static/js/main.90a4230f.js",
     "static/media/2.png": "/react-shop.github.io/static/media/2.5f080d9e47bf46ca3fce.png",
     "static/media/3.png": "/react-shop.github.io/static/media/3.c7785c796d0b2bf5aa2b.png",
     "static/media/4.png": "/react-shop.github.io/static/media/4.dce93278370eb9a94e56.png",
@@ -11,11 +11,11 @@
     "static/media/6.webp": "/react-shop.github.io/static/media/6.5828a0fe3c77468b8726.webp",
     "static/media/7.webp": "/react-shop.github.io/static/media/7.59c9a0eba54726d9fc95.webp",
     "index.html": "/react-shop.github.io/index.html",
-    "main.974da663.css.map": "/react-shop.github.io/static/css/main.974da663.css.map",
-    "main.ca5f08ec.js.map": "/react-shop.github.io/static/js/main.ca5f08ec.js.map"
+    "main.ebf9b3ac.css.map": "/react-shop.github.io/static/css/main.ebf9b3ac.css.map",
+    "main.90a4230f.js.map": "/react-shop.github.io/static/js/main.90a4230f.js.map"
   },
   "entrypoints": [
-    "static/css/main.974da663.css",
-    "static/js/main.ca5f08ec.js"
+    "static/css/main.ebf9b3ac.css",
+    "static/js/main.90a4230f.js"
   ]
 }
